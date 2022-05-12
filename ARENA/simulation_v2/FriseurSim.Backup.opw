@@ -1,0 +1,15 @@
+[RESOURCES]
+StylingMitarbeiter
+Barbier
+Shampoo Mitarbeiter 2
+Shampoo Mitarbeiter
+[VARIABLES]
+Kunden Kommen Walk In.NumberOut
+Schneidprozess.NumberIn
+Schneidprozess.NumberOut
+Ausgang.NumberOut
+ShampooProzess.NumberOut
+ShampooProzess.NumberIn
+Online Check In Kunden.NumberOut
+StylingProzess.NumberIn
+StylingProzess.NumberOut

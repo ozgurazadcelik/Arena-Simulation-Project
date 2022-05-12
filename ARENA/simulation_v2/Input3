@@ -1,0 +1,56 @@
+
+	Distribution Summary
+
+Distribution:	Beta         
+Expression:	3.5 + 9 * BETA(0.82, 0.77)
+Square Error:	0.031218
+
+
+	Data Summary
+
+Number of Data Points	= 7
+Min Data Value       	= 4
+Max Data Value       	= 12
+Sample Mean          	= 8.14
+Sample Std Dev       	= 2.79
+
+	Histogram Summary
+
+Histogram Range    	= 3.5 to 12.5
+Number of Intervals	= 9
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0     1       4.00      0.143      0.136      0.143      0.136
+   1     0       5.00       0.00      0.106      0.143      0.242
+   2     1       6.00      0.143     0.0996      0.286      0.341
+   3     1       7.00      0.143     0.0974      0.429      0.439
+   4     1       8.00      0.143     0.0975      0.571      0.536
+   5     1       9.00      0.143     0.0997      0.714      0.636
+   6     0       10.0       0.00      0.105      0.714      0.740
+   7     1       11.0      0.143      0.115      0.857      0.855
+   8     1       12.0      0.143      0.162       1.00       1.02
+
+
+=================================================================
+
+
+Data File: C:\Users\AzamaoZ\Desktop\simulation_v2\shampoo.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.0312
+Uniform        0.0317
+Poisson        0.0344
+Normal         0.0427
+Weibull        0.0461
+Erlang         0.0524
+Gamma          0.0526
+Exponential    0.0632
+Lognormal      0.071
+Triangular     0.0747

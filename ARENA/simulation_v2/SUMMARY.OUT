@@ -1,0 +1,18 @@
+Fit All
+
+Document:  C:\Users\AzamaoZ\Desktop\simulation_v2\styling.txt
+Data File: C:\Users\AzamaoZ\Desktop\simulation_v2\styling.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.0971
+Uniform        0.114
+Normal         0.119
+Erlang         0.123
+Exponential    0.123
+Gamma          0.124
+Weibull        0.125
+Poisson        0.132
+Triangular     0.133
+Lognormal      0.133

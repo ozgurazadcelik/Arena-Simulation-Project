@@ -1,0 +1,4 @@
+Statistics menüsü altındaki Tally ve Output 
+bölümleri spesifik bir dizine dosya üretmeye 
+çalıştıkları için verileri silmeden ya da kayıt
+dizinini değiştirmeden simülasyon çalışmayacaktır.
